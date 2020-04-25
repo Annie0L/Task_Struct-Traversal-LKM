@@ -3,8 +3,6 @@
  *
  * LKM to read process info greater than number input from current process, 
  * parent process of current, and child processes of current. 
- * 
- * To compile, run makefile by entering "make"
  *
  * Anne Landrum, John Wiley and Sons (Modified from simple.c)
  */
